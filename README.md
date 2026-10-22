@@ -60,3 +60,5 @@ We are integrating OpenAI's advanced reasoning models (Codex / GPT-4o / O-series
 
 ## 5. License
 This project is open-source under the [MIT License](LICENSE).
+
+<!-- verified by hafphongg -->
